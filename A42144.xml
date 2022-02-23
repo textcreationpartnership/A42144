@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. John Griffith, Minister of the Gospel and now prisoner in Newgate being a true and impartial account of what he spake at the Sessions-house in the Old Bailey on the 18th of this instant April, 1683 before the Lord-Chief-Justice Saunders and three judges more, the Lord Mayor, recorder, and several aldermen of the city of London.</title>
+            <author>Griffith, John, 1622?-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42144</idno>
+            <idno type="STC">Wing G2000</idno>
+            <idno type="STC">ESTC R26762</idno>
+            <idno type="EEBO-CITATION">09531724</idno>
+            <idno type="OCLC">ocm 09531724</idno>
+            <idno type="VID">43540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. John Griffith, Minister of the Gospel and now prisoner in Newgate being a true and impartial account of what he spake at the Sessions-house in the Old Bailey on the 18th of this instant April, 1683 before the Lord-Chief-Justice Saunders and three judges more, the Lord Mayor, recorder, and several aldermen of the city of London.</title>
+                  <author>Griffith, John, 1622?-1700.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Griffith.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43540:1" rendition="simple:additions"/>
+            <head>THE Caſe of Mr. John Griffith Miniſter of the Goſpel, and now Priſoner in <hi>Newgate.</hi>
+            </head>
+            <head type="sub">Being a true and Impartial Account of what he ſpake at the <hi>Seſſions-houſe</hi> in the <hi>Old Bailey,</hi> on the 18th day of this inſtant <hi>April,</hi> 1683. before the Lord-Chief-Juſtice <hi>Saunders,</hi> and three Judges more, the Lord Mayor, Recorder, and ſeveral Aldermen of the City of <hi>London.</hi>
+            </head>
+            <p>ON the day and year aboveſaid, about four in the Afternoon, Mr. <hi>Bamp<g ref="char:EOLhyphen"/>field,</hi> and my ſelf were ſent for by the Court, and ſoon after we came we were both brought to the inward Bar.</p>
+            <p>Mr. <hi>Bampfield</hi> was firſt required to take the <hi>Oath of Allegiance,</hi> it being again tendered him according to the Statute in the third of King <hi>James.</hi>
+            </p>
+            <p>After ſome diſcourſe between the Judges and the Recorder, had with Mr. <hi>Bampfield,</hi> he refuſing to ſwear, they made an end for that time with him. The Clerk of the Peace I took him to be, ſaid unto me, Take off your Glove; I asked him, <hi>What to do?</hi> he anſwered, <hi>To lay your hand on the Book,</hi> which Book he had in his hand, and held it out unto me.</p>
+            <p>I then ſpake with a loud voice, <hi>and ſaid,</hi> My Lord, I hope you will give me the Liberty to ſpeak for my ſelf in my own defence; one of the Judges replied, That my friend (meaning Mr. <hi>Bampfield</hi>) had ſpoke for me, or to that effect. I ſaid again that I deſired to ſpeak for my ſelf, for I had other things to offer as my reaſons why I could not take that Oath. Having Liberty granted, as I took it from their ſilence, I with an audible voice ſaid unto them, I am in the Scrip<g ref="char:EOLhyphen"/>ture commanded when I take an Oath, <hi>To ſwear in Truth, in Judgment, and in Righteouſneſs,</hi> unto which the Church of <hi>England</hi> doth agree; it is one Article of their Faith, That he that taketh an Oath, being required of the Magiſtrate, ought to ſwear, ſo he do it <hi>in Truth, in Righteouſneſs, and in Judgment. (See Ar<g ref="char:EOLhyphen"/>ticle</hi> 39. <hi>of the Church of</hi> England.)</p>
+            <p>Now for me to ſwear, as my duty is according to the Scripture, and as the Church of <hi>England</hi> directs, I cannot, ſhould I take this Oath, becauſe I cannot know, but muſt be ignorant of, what I bind my Soul to perform, and then it is impoſſible I ſhould <hi>ſwear in Truth, in Judgement, and in Righteouſneſs.</hi>
+            </p>
+            <p>I cannot know, but muſt be ignorant, both of what hereafter by Law I may be required to do, and alſo to whom I ſwear to be obedient; for it is not poſſible I ſhould foreſee what Laws may hereafter be made; and I do not only bind my Soul to obey the King that now is, but his Heirs and Succeſſors alſo; and I know not what his Succeſſor may be, for ought I know he may be a Popiſh Succeſ<g ref="char:EOLhyphen"/>for, or a Papiſt, and I cannot ſwear to obey Laws not yet in being, nor to be obe<g ref="char:EOLhyphen"/>dient to a Popiſh Succeſſor; therefore I cannot take the Oath of Allegiance.</p>
+            <pb n="3" facs="tcp:43540:2"/>
+            <p> Upon which words there was a Hum in the Court which being ceaſed af<g ref="char:EOLhyphen"/>ter a little pauſe, one of the Judges made this ſhort reply, I (ſaith he) <hi>doth the stick lie there?</hi>
+            </p>
+            <p>I then went on, and ſaid, I cannot conform to the Church of <hi>England;</hi> ſhould I take this Oath, I ſwear to Conform, for I am bound by an Oath to obey all the Kings Laws, as much thoſe Laws which reſpect the VVorſhip of God, as thoſe relating to Civil Government, and then I am ſworn to hear Common prayer once a month, (here one of the Judges ſaid, <hi>So you are</hi>) and to Receive the Sacrament with the Church of <hi>England</hi> as oft as the Law requires, yea and to Conform to all the Rites and Ceremonies of the ſaid Church; to this it was anſwered, <hi>(So you are)</hi> and not to frequent Private Meetings any more, for there are Laws that forbid it; it was again anſwered, <hi>So you are.</hi>
+            </p>
+            <p>Therefore I cannot take this Oath.</p>
+            <p>I then pray'd the Judges to give me all their opinions, whether it were as <hi>I</hi> had ſaid or not, they anſwered with one conſent, as one man, That it was as <hi>I</hi> had ſaid, <hi>viz.</hi> That <hi>I</hi> did in taking the Oath, ſwear to obey all the Kings Laws without exception. Then <hi>I</hi> returned them thanks, that they were pleaſed to give me their opinion and judgment in the Caſe, and withal added theſe words, <hi>I</hi> am well ſatisfied and ſetled in my Religion, and the more confirmed by what you have ſaid; and if it be ſo, do with me what you pleaſe, come life, come death, the Lord aſſiſting me, <hi>I</hi> will never take the Oath of Allegiance.</p>
+            <p>Then I deſired to ſpeak a few Words more, which being not denyed, I ſaid Be it known unto you, that I do not refuſe to take the Oath of Allegiance, in any diſlike I have of any thing contained therein, againſt the Authority of the Pope, or the See of <hi>Rome,</hi> but do in all points therein with you agree; and fur<g ref="char:EOLhyphen"/>ther I do declare, that I believe the Pope hath no Power, nor Authority over the Kings Perſon, nor his Government, no, nor over the meaneſt Subject in his Kingdom; and do yet further declare, That I believe in my Conſcience, Popery to be Idolatrous, Damnable, and Deviliſh.</p>
+            <p>I was then had back again to the <hi>Preſs-yard,</hi> where I remain the Lords Priſoner, and am ready further to bear my Teſtimony for him, againſt Anti-chriſt, the Pope, and See of <hi>Rome,</hi> and for his holy Word, the Purity of the Goſpel, and the Ordinances thereof, againſt Popiſh Darkneſs, filthy Idolatries, Fornications Blaſphemies, and Abominations, and all Traditions of men, as one made willing through the free mercy and rich Grace of God, my heavenly Father, to forſake all for Chriſt, (who hath loved me, and given himſelf for me) not counting my life dear to my ſelf, ſo I may finiſh my Courſe with Joy, and the Miniſtry I have received of the Lord Jeſus, to teſtifie the Goſpel of the Grace of God.</p>
+            <p>Thus have I given an Account of what I ſpake, and was ſaid to me, to the ve<g ref="char:EOLhyphen"/>ry beſt of my memory, though it may be not word for word, yet for ſubſtance of what was ſpoke, it is true.</p>
+            <closer>
+               <signed>JOHN GRIFFITH</signed>
+            </closer>
+            <epigraph>
+               <q>Thou ſhalt not forſwear thy ſelf, but ſhalt perform unto the Lord thine Oaths</q>
+               <bibl>Mat. 5.23.</bibl>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Larkin</hi> for the Author. 168<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
